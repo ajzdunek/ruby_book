@@ -1,2 +1,2 @@
 # ruby_book
-Learning Ruby
+Ruby Fundamentals
